@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello_world" translatable="false">Bonjur tout le monde!</string>
+    <string name="click_me" translatable="false">Cliquez sur moi</string>
+</resources>
